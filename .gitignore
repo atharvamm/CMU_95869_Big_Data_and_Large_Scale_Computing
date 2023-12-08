@@ -1,0 +1,11 @@
+
+# Directory
+**/.DS_Store/
+**/.obsidian/
+**/.ipynb_checkpoints/
+**/quiz/
+
+# File
+*.pdf
+*.zip
+*.txt
