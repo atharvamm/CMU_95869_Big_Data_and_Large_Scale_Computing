@@ -10,14 +10,13 @@
 6. [Linear Regression Pt. 2](notes/linr2.md)
 7. [Logistic Regression Pt. 1](notes/logr1.md)
 8. [Logistic Regression Pt. 2](notes/logr2.md)
-9. [PCA Pt. 1](notes/pca1.md)
-10. [PCA Pt. 2](notes/pca2.md)
-11. [MLlib](notes/mllib.md)
-12. [SparkSQL](notes/sql.md)
-13. [GraphX](notes/graph.md)
-14. [Quizzes](notes/quiz.md)
-15. [Coding Assignments](notes/code.md)
-16. [Miscellaneous](notes/mis.md)
+9. [PCA](notes/pca.md)
+10. [MLlib](notes/mllib.md)
+11. [SparkSQL](notes/sql.md)
+12. [GraphX](notes/graph.md)
+13. [Quizzes](notes/quiz.md)
+14. [Coding Assignments](notes/code.md)
+15. [Miscellaneous](notes/mis.md)
 
 ## Projects
 
