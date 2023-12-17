@@ -92,7 +92,3 @@ Using `SparkSession`, you can easily transition between Spark's SQL, DataFrame, 
    ```
 
 In summary, while `SparkContext` is lower-level and focuses on the distributed processing capabilities of Spark, `SparkSession` is a higher-level abstraction that provides a more convenient interface, especially for working with structured data using DataFrames and executing SQL queries. In modern Spark applications, it's common to use `SparkSession` for most tasks, and it internally manages the `SparkContext`.
-
-### How to use spark when multiple nodes are involved like ec2 instances
-### Do RDDs have a data type. If not, how do we find out which sort of operation is valid for a given rdd. Like I should have some sort of check to stop someone from applying dictionary operations on an rdd that was given lists.
-### 
